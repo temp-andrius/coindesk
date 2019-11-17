@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: Sofia Pro, sans-serif;
+
+  #root {
+    height: 100vh;
+    overflow: auto;
+    max-width: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+  }
+}

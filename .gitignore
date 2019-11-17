@@ -1,0 +1,7 @@
+/coverage
+/cypress/fixtures
+/cypress/screenshots
+/cypress/videos
+/node_modules
+
+package-lock.json
